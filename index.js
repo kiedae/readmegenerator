@@ -1,6 +1,7 @@
+//Import the required modules 
 const inquirer = require('inquirer');
 const fs = require('fs');
-
+// prompt users for these questions
 inquirer.prompt([
     {
         type: 'input',
@@ -51,6 +52,7 @@ inquirer.prompt([
         },
     }
 ]).then(({ title, userStory, functionality, repository }) => {
+    //create the string to add to the readme document
     const renderReadme = `# ${title}
 
 # USER STORY
@@ -63,7 +65,7 @@ ${functionality}
 
 ${repository}
 `;
-
+// use fs write to add the renderReadme string including user inputs into the readme file
     fs.writeFile('./README.md', renderReadme, (err) => {
         if (err) {
             console.error(err);
