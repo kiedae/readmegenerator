@@ -10,4 +10,4 @@ The app takes in user inputs for the tile, user story, functionality, and links 
 
 https://github.com/kiedae/readmegenerator
 
-<img alt="license-badge" src="img.shields.io/badge/license-eqeq-yellowgreen.svg">
+<img alt="license-badge" src="img.shields.io/badge/license-bonkers-yellowgreen.svg">
