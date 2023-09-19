@@ -9,3 +9,5 @@ The app takes in user inputs for the tile, user story, functionality, and links 
 # Where to find the Source Code
 
 https://github.com/kiedae/readmegenerator
+
+<img alt="license-badge" src="img.shields.io/badge/license-eqeq-yellowgreen.svg">
