@@ -12,4 +12,4 @@ https://github.com/kiedae/readmegenerator
 
 <img alt="license-badge" src="https://img.shields.io/badge/license-bonkers-yellowgreen.svg">
 
-<img alt="license-badge" src="https://img.shields.io/badge/Github%20Kiedae">
+<img alt="license-badge" src="https://img.shields.io/badge/git_hub-Kiedae-blue">
